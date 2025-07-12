@@ -1,0 +1,4 @@
+ntf: not too far from original solution (i.e original solution was close to best)
+difficult: i found the problem really difficult and possibly time-consuming
+clunky
+improved
